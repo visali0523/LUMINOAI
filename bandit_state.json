@@ -1,0 +1,30 @@
+{
+  "explanation_style": {
+    "student_1": {
+      "analogy": {
+        "count": 0,
+        "total_reward": 0.0
+      },
+      "summary": {
+        "count": 1,
+        "total_reward": 0.0
+      },
+      "detailed": {
+        "count": 1,
+        "total_reward": 0.0
+      }
+    }
+  },
+  "tutoring_mode": {
+    "student_1": {
+      "hint_first": {
+        "count": 3,
+        "total_reward": 0.0
+      },
+      "direct_answer": {
+        "count": 1,
+        "total_reward": 0.0
+      }
+    }
+  }
+}

@@ -97,10 +97,10 @@ python test_api.py
 
 
 
-- **Embeddings local- (`sentence-transformers`) generate  PDF content embedding API-ு.
-- **ChromaDB local- disk- persist ஆகுது — cloud vector DB .
+- **Embeddings local- (`sentence-transformers`) generate  PDF content embedding API.
+- **ChromaDB local- disk- persist  — cloud vector DB .
 - **Answer strictly document context-ல்  — hallucination  syllabus-specific.
-- Groq API-ஐ மட்டும் final answer generation (that too without storing student PDFs on their servers).
+- Groq API- final answer generation (that too without storing student PDFs on their servers).
 
 ---
 
